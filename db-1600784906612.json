@@ -1,0 +1,130 @@
+{
+  "feeds": [
+    {
+      "id": "2",
+      "title": "medication",
+      "image": "https://i.pinimg.com/236x/8d/af/12/8daf124ce80576cc03b9ed95476cab2f.jpg",
+      "description": "in paris for medication support",
+      "amount": "100, 000",
+      "phone": "0712 000 678"
+    },
+    {
+      "id": "3",
+      "title": "finance start up",
+      "image": "https://i.pinimg.com/236x/90/c6/b4/90c6b4474723f57942718663c871d7d2.jpg",
+      "description": "for any support in my start up tip me",
+      "amount": "70000",
+      "phone": "0712 568 123"
+    },
+    {
+      "id": "4",
+      "title": "university education",
+      "image": "https://i.pinimg.com/236x/3d/97/3c/3d973c05437c7dc1926fead5b39b7c56.jpg",
+      "description": "support my education",
+      "amount": "711000",
+      "phone": "0712 123 568"
+    },
+    {
+      "id": "5",
+      "title": "movie tickets",
+      "image": "https://i.pinimg.com/236x/36/95/18/3695181774aa3235d74cd2d0881612cf.jpg",
+      "description": "for any support in my start up tip me",
+      "amount": "700",
+      "phone": "0711 577 000"
+    },
+    {
+      "id": "6",
+      "title": "clean cleaners",
+      "image": "https://i.pinimg.com/236x/cb/58/31/cb58312619b960494ff1ea960ebed9e4.jpg",
+      "description": "call us for any cleaning work",
+      "amount": "1000",
+      "phone": "0723 125 681"
+    },
+    {
+      "id": "7",
+      "title": "pink panther",
+      "image": "https://i.pinimg.com/236x/8c/20/e7/8c20e7127743b0eea0b3f66b6465a4dd.jpg",
+      "description": "tip us the pink panthers",
+      "amount": "711",
+      "phone": "0711 707 789"
+    },
+    {
+      "id": "8",
+      "title": "first 3D watches",
+      "image": "https://i.pinimg.com/236x/90/c6/b4/90c6b4474723f57942718663c871d7d2.jpg",
+      "description": "first 3D watches in the market, buy to support our business and make us the business of tomorrow",
+      "amount": "1500",
+      "phone": "0712 123 444"
+    },
+    {
+      "id": "9",
+      "title": "rubix cube",
+      "image": "https://i.pinimg.com/236x/c3/09/67/c30967faac7104c000178247bab6d694.jpg",
+      "description": "master of all trades in the rubix cube business buy one today",
+      "amount": "250",
+      "phone": "0712 568 880"
+    },
+    {
+      "id": "10",
+      "title": "Damian Dark",
+      "image": "https://i.pinimg.com/236x/25/4d/eb/254deb84d7bdf5bedc5aaf4811b697f1.jpg",
+      "description": "Damina dark is sick",
+      "amount": "500000000",
+      "phone": "0734 774 123"
+    }
+  ],
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@gmail.com",
+      "password": "johnDoe"
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Smith",
+      "email": "sam.smith@gmail.com",
+      "password": "samSmith"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "jane.doe@gmail.com",
+      "password": "janeDoe"
+    },
+    {
+      "firstName": "Traversy",
+      "lastName": "Media",
+      "email": "traversy.media@gmail.com",
+      "password": "traversyMedia"
+    },
+    {
+      "id": "mwangimartin1904@gmail.com",
+      "firstName": "Martin",
+      "lastName": "Mwangi",
+      "email": "mwangimartin1904@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "james.maina@gmail.com",
+      "firstName": "James",
+      "lastName": "Maina",
+      "email": "james.maina@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "john.kamau@gmail.com",
+      "firstName": "John",
+      "lastName": "Kamau",
+      "email": "john.kamau@gmail.com",
+      "password": "johnkamau"
+    },
+    {
+      "id": "alex145@gmail.com",
+      "firstName": "alex",
+      "lastName": "maina",
+      "email": "alex145@gmail.com",
+      "password": "alex145"
+    }
+  ]
+}
